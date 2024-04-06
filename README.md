@@ -1,4 +1,6 @@
 # Proyecto Foro
 
-#### Informacion principal cd
+*Informacion principal* 
+
+    * prueba 1
 

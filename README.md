@@ -1,6 +1,13 @@
-# Proyecto Foro
+**E-Commer Pemuco**
 
-*Informacion principal* 
+Servicio de página web tipo Ecomerce, el cual va en ayuda para tener un seguimiento de ventas, conocer stock de productos y agilizar procesos.
 
-    * prueba 1
+----------------------------------------------------------------------------------------------------------------------------------------------
 
+**MODULOS**
+
+**Carrito de compra:**
+* Agregar producto
+* Eliminar producto
+* Modificar producto
+* Pagar

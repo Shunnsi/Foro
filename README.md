@@ -1,4 +1,4 @@
 # Proyecto Foro
 
-#### Informacion principal
+#### Informacion principal cd
 

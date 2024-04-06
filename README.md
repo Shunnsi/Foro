@@ -1,3 +1,4 @@
 # Proyecto Foro
 
-**Informacion principal**
+#### Informacion principal
+
